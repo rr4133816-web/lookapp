@@ -67,7 +67,6 @@ export function AppShell() {
             rel="noreferrer"
             className="text-xs text-muted-foreground transition-smooth hover:text-primary"
           >
-            © {new Date().getFullYear()}. Built with love using caffeine.ai
           </a>
         </div>
       </footer>
