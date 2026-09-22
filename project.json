@@ -1,0 +1,21 @@
+{
+  "overview": "A premium service marketplace where customers discover professionals, book services, and manage their bookings.",
+  "features": [
+    "Browse and filter service professionals",
+    "Book a service through a guided multi-step flow",
+    "Confirm bookings without payment controls",
+    "View and manage customer bookings",
+    "Professional and admin dashboards",
+    "Messaging, notifications, and favorites",
+    "Light and dark themes with responsive layouts"
+  ],
+  "category": "marketplace",
+  "tags": [
+    "marketplace",
+    "booking",
+    "services",
+    "saas",
+    "responsive"
+  ],
+  "last_updated": "2026-09-22T11:52:44.204Z"
+}
