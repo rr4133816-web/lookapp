@@ -567,7 +567,6 @@ export default function Landing() {
               rel="noreferrer"
               className={cn("transition-smooth hover:text-primary")}
             >
-              Built with love using caffeine.ai
             </a>
           </div>
         </div>
